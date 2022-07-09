@@ -6,7 +6,7 @@ title: Manousos Klados
 superuser: true
 
 # Role/position/tagline
-role: Professor of Psychology
+role: Associate Professor of Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,15 +27,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PGCert in Higher Education
+      institution: Aston University.
+      year: 2019
+    - course: PhD in Medicine
+      institution: Aristotle University of Thessaloniki
+      year: 2015
+    - course: MSc in Medical Informatics
+      institution: Aristotle University of Thessaloniki
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mathematics
+      institution: Aristotle University of Thessaloniki
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
