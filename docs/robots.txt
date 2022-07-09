@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ramsys28.github.io/sitemap.xml
