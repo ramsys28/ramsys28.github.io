@@ -1,26 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Manousos Klados
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of York - Europe Campus, CITY College
+    url: https://york.citycollege.eu/frontend/index.php
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Manousos Klados is a mathematician, with a M.Sc. in Computational Neuroscience and a PhD in the borders of Affective, Cognitive and Computation Neurosciences. Currently he is an Assoc. Professor in Psychology at University of York Europe Campus - CITY College. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Brain Networks
+  - Affective Neuroscience
+  - Mathematical Anxiety
+  - Personality Neuroscience
+  - Affective/Personality Computing
 
 # Education to show in About widget
 education:
