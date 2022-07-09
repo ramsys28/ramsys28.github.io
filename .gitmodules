@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/ramsys28/ramsys28.github.io.git
 	branch = main
+[submodule "docs/docs"]
+	path = docs/docs
+	url = https://github.com/ramsys28/ramsys28.github.io.git
+	branch = main
