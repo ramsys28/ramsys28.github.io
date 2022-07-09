@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Dr. Manousos Klados'
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Academic website of Dr. Manousos Klados'
+    twitter: 'mklados'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -53,9 +53,9 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2/01/2006'
   time_format: '3:04 PM'
-  address_format: en-us
+  address_format: en-gb
 
 # Site features
 
@@ -66,11 +66,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ramsys28/mklados'
     content_dir: content
     branch: master
   avatar:
