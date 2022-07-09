@@ -10,7 +10,33 @@
   <url>
     <loc>https://ramsys28.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/publication-type/2/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/tag/bss/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/tag/eeg/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/tag/eeg-decomposition/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/tag/ica/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/publication_types/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/publication/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/tag/signal-processing/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/tags/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramsys28.github.io/publication/stergiadis2022/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramsys28.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -18,11 +44,7 @@
   <url>
     <loc>https://ramsys28.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ramsys28.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramsys28.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -46,26 +68,4 @@
   <url>
     <loc>https://ramsys28.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ramsys28.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/publication-type/2/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/tag/bss/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/tag/eeg/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/tag/eeg-decomposition/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/tag/ica/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/tag/signal-processing/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramsys28.github.io/publication/stergiadis2022/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
