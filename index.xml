@@ -147,18 +147,18 @@
     </item>
     
     <item>
-      <title>Computerized physical exercise improves the functional architecture of the brain in patients with Parkinsons Disease a network science resting-state EEG study</title>
-      <link>https://ramsys28.github.io/publication/xefteris2020/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ramsys28.github.io/publication/xefteris2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Consensus on the reporting and experimental design of clinical and cognitive-behavioural neurofeedback studies (CRED-nf checklist)</title>
       <link>https://ramsys28.github.io/publication/ros2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://ramsys28.github.io/publication/ros2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Recognition of Personality Profiles Using EEG Functional Connectivity during Emotional Processing</title>
+      <link>https://ramsys28.github.io/publication/klados2020/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramsys28.github.io/publication/klados2020/</guid>
       <description></description>
     </item>
     
@@ -313,6 +313,14 @@ $$&lt;/p&gt;
       <link>https://ramsys28.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ramsys28.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current trends of biomedical signal processing in neuroscience</title>
+      <link>https://ramsys28.github.io/publication/nday2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ramsys28.github.io/publication/nday2020/</guid>
       <description></description>
     </item>
     
