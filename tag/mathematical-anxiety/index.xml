@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematical anxiety | Dr. Manousos Klados</title>
+    <link>https://ramsys28.github.io/tag/mathematical-anxiety/</link>
+      <atom:link href="https://ramsys28.github.io/tag/mathematical-anxiety/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathematical anxiety</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramsys28.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mathematical anxiety</title>
+      <link>https://ramsys28.github.io/tag/mathematical-anxiety/</link>
+    </image>
+    
+    <item>
+      <title>The impact of math anxiety on working memory: A cortical activations and cortical functional connectivity {EEG} study</title>
+      <link>https://ramsys28.github.io/publication/klados2019/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramsys28.github.io/publication/klados2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
